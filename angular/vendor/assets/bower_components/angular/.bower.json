@@ -1,0 +1,17 @@
+{
+  "name": "angular",
+  "version": "1.5.2",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "_release": "1.5.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.5.2",
+    "commit": "bec191cd9fe2a09cc76810f41c6c9da9a622fdcb"
+  },
+  "_source": "git://172.31.33.237:6789/angular",
+  "_target": "~> 1.5",
+  "_originalSource": "angular"
+}
