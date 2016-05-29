@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rubocop'
+gem 'bootstrap', '~> 4.0.0.alpha3'
 
 
 group :development, :test do
