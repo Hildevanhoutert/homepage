@@ -24955,3 +24955,1436 @@ Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded31
 
 
 Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-21 22:20:06 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:19:52 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 1784ms (Views: 1774.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-06-22 10:19:54 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 48ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f018d771beb09f807ddc1243529aa18d725685fc7e1a8563e37f57581a670be3.css?body=1" for ::1 at 2016-06-22 10:19:55 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:20:16 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1334ms (Views: 1333.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ef27884274c26878e23af51f11dfd2a814160682e821c5d45a3fb481c29a4a59.css?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:20:17 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:20:18 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:20:18 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:20:18 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:20:31 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 49ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-06-22 10:20:32 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 58ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-06-22 10:20:41 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1357ms (Views: 1356.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/application.self-2ff5e8f96b697e2c1bfe1f3d324b27e737ec4f89bb98c3b6c145485a660164d6.css?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:20:42 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:20:43 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:20:52 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1421ms (Views: 1420.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/application.self-468a4d2038f4cf5e1f8003a949f6b503a739a480a94d0e29f1bfd2d2fca45911.css?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:20:54 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:21:11 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1369ms (Views: 1368.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:21:12 +0200
+
+
+Started GET "/assets/application.self-5f1df8478688e614c7c501a10134cb39c58735e8ac6e8ebbb398ed9fd5b04751.css?body=1" for ::1 at 2016-06-22 10:21:12 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:21:12 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:21:12 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:21:12 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:21:13 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:23:42 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 61ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5f1df8478688e614c7c501a10134cb39c58735e8ac6e8ebbb398ed9fd5b04751.css?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:23:43 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:25:03 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1315ms (Views: 1314.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d3551d9f2c68ae780c8322819ed299fea2ef242d51dd2ad37bc4674f8f1acc36.css?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:25:05 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:25:44 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1354ms (Views: 1353.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-88f1ac696f993b0e40b5835fa6e0871c0054eada9d35be71fce85de9d6f1a035.css?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:25:46 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:25:47 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:26:29 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1456ms (Views: 1455.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7c4f74ff18c2e8bed2d5d42e68262a976f41589dd38d3a944ae55ded633292f2.css?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:26:31 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:26:32 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:26:49 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 604ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "  position": expected ";", was ": relative;"):
+    2: <html>
+    3: <head>
+    4:   <title>Hilde van Houtert</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <link href='https://fonts.googleapis.com/css?family=Economica' rel='stylesheet' type='text/css'>
+    8:   <%= csrf_meta_tags %>
+  app/assets/stylesheets/homepage.scss:21
+  app/assets/stylesheets/application.scss:2
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1520462501519856971_70110147669180'
+
+
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.2ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.9ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (71.8ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (59.1ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/kevinegstorf/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (129.9ms)
+
+
+Started GET "/" for ::1 at 2016-06-22 10:26:56 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1395ms (Views: 1394.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b046bd1e821d3086cc0960885ff7513465ed1936552f51967f3f006aca649f6e.css?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:26:58 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:27:27 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1437ms (Views: 1436.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-27d81ba987818859b1b423a3cb5eb36bf0a84c19754d4835356fa9b41ef09043.css?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:27:29 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:27:42 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1352ms (Views: 1350.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0c05c8703145e35d48c53b64233abf45065d3f1dbf028e9ad6fbbcbb95074e34.css?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:27:44 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:27:51 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1534ms (Views: 1532.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/application.self-e461789caaa547abbb8448dd268789637538a429f21b932218b7de5ba31e3e23.css?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:27:53 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:28:01 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1375ms (Views: 1374.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-660882a379d83bd2aa0911e1b042492d752c0bdd31268d56e9e0100777f26872.css?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:28:03 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:28:53 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1551ms (Views: 1549.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/application.self-c7364e651b2f9eb987fb398cf7542c374359713f89be920e437bb920667908ab.css?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:28:55 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:28:56 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:29:10 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1587ms (Views: 1586.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/application.self-c069d14b335e6cc5f7b97dff84fc04fc5cb2e42f9ee1b824cdd60a04baf3813e.css?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:29:12 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:29:18 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1610ms (Views: 1608.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/application.self-4f7696fa7d001f5ea38ffba7f37ddf9ef885680033f590f2a9bf74d99d7aa37c.css?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:29:20 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:29:26 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1552ms (Views: 1551.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/application.self-ee30cf62cdace7d53d3311decf812da856b912602a8d927f423defafec9d29cf.css?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:29:28 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:30:03 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 38ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/application.self-4f7696fa7d001f5ea38ffba7f37ddf9ef885680033f590f2a9bf74d99d7aa37c.css?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:30:04 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:30:10 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1582ms (Views: 1581.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-faebbb1624d9024cc0645ec970934f3b342ed2f730e853cd658caffd45ad5c9f.css?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:30:12 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:30:22 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1468ms (Views: 1467.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/application.self-cc0bf412184193458ed5b2174a18d0c5efce4225864ddebaefe4a3494e40ff3c.css?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:30:23 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:30:39 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1568ms (Views: 1567.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/application.self-06036d6167d06b64c634b0dc668f0bed6d8302532b7e38d00d037d6b50aadea2.css?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:30:41 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:30:58 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-06036d6167d06b64c634b0dc668f0bed6d8302532b7e38d00d037d6b50aadea2.css?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:30:59 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:31:10 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-06-22 10:32:07 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1374ms (Views: 1373.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/application.self-1f3025b14589fc61985f4aa939f4d5200f0243a92e476ba4e368ba29e30c79b6.css?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:32:09 +0200
+
+
+Started GET "/" for ::1 at 2016-06-22 10:32:17 +0200
+Processing by HomepageController#index as HTML
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1393ms (Views: 1392.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/util.self-259befb5ba307350f3ed40e4ff1d27e6268e407ee0da02fd46435784459fc746.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/application.self-133041630ff86827941b3581e886eca4ae0e166df64a6031dbcceac6bf61ffdf.css?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/carousel.self-8e572923c87f450d7f38176167d96a27913dac0771100278265523b97f2bb074.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/button.self-9a46ecb8ace47b217ba3ee88c7a8c7572b0ef75e77fff1b4e32ddf00af7fefe4.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/alert.self-44483afe785e8334f25977de4cc25db3b8ca7ef953e60d2eeda2deeeccfda56e.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/collapse.self-4f8619d8d3fb252be59e65ef55b5a91dee275861b5d729c7e64f55091266984e.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-77fbc8160624d6515b5d55fa40e7e7ba8f4ebe526b6007fe5a6bbc4437b46a1e.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/modal.self-83fa21d21f8b68b3389ce5018b81be0ad967d65f1e08e3acd0d5c804e31e64a7.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-7474c149d14b6006919c68e8dd36423c169ef1c15b54a701b82e3931831fa434.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/tab.self-7249bd863668fd4b877386598154c53466a77a853ae4d9ee2c45476fa3a361eb.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/popover.self-1b1efcd196ba075b0e9b7962c2a7631c8d7bcc7010e0140ad2c071cb0594a1d9.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-ff495cd6932165d4adceb3a8baec7340536f4d26b2fa14cd202e651ccc7f513a.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for ::1 at 2016-06-22 10:32:18 +0200
+
+
+Started GET "/assets/achtergrond-28b2653706e8a0395c20b00f9ec80e8e6e3b70ea9ac3a2bb0e719cf81e667524.png" for ::1 at 2016-06-22 10:32:19 +0200
+
+
+Started GET "/assets/krabbel-6374c9d79b3337cfcac6ad00e9f5e37872b382e508858aded3105630d261a585.png" for ::1 at 2016-06-22 10:32:19 +0200

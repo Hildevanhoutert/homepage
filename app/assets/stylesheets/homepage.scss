@@ -12,9 +12,11 @@ li {
   font-size: 2em;
 }
 
-img{
+.nav-item-bg{
+  background-image: image-url('krabbel.png');
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+  width: 7rem;
   position: relative;
-width: 159px;
-z-index: -1;
-margin-left: -91px;
+  z-index: -1;
 }
