@@ -2,14 +2,19 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.background {
-  background-image: url('https://static.pexels.com/photos/91484/pexels-photo-91484.jpeg');
-  background-position: center;
-  background-size: cover;
-  height: 100vh;
-  text-align: center;
+body {
+  background-image: image-url('achtergrond.png');
 }
 
-.top--30 {
-  margin-top: 30px;
+
+li {
+  font-family: 'Economica', sans-serif;
+  font-size: 2em;
+}
+
+img{
+  position: relative;
+width: 159px;
+z-index: -1;
+margin-left: -91px;
 }
