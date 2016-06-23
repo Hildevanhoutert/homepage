@@ -14,3 +14,7 @@
 
 # Jet Brains
 .idea
+
+*.jpg
+
+*.log
