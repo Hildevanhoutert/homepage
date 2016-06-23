@@ -6,13 +6,12 @@ body {
   background-image: image-url('achtergrond.png');
 }
 
-
 li {
   font-family: 'Economica', sans-serif;
   font-size: 2em;
 }
 
-.nav-item-bg{
+.nav-item-bg {
   background-image: image-url('krabbel.png');
   background-size: 80px 60px;
   background-repeat: no-repeat;
@@ -20,3 +19,26 @@ li {
   position: relative;
   z-index: -1;
 }
+
+.nav-link.nav-item-bg {
+  z-index: 2;
+  &:hover {
+    color: pink !important;
+  }
+}
+
+.main-section {
+  margin-top: 1rem;
+}
+
+.logo {
+  width: 256px;
+}
+
+.section-nav {
+  color: white;
+}
+
+.first-image {
+    width: 280px;
+  }
